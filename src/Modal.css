@@ -1,0 +1,21 @@
+.modal-overlay {
+position: absolute;
+top: 0;
+left: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+  
+.modal-content img {
+z-index: 3;
+position: fixed; 
+top: 0;
+left: 0;
+transform: rotate(0deg);
+background-color: transparent;
+max-height: 500vh;
+}
+
+
+  

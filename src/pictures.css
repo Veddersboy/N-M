@@ -1,0 +1,236 @@
+.Pictures img{
+cursor: pointer;
+position: relative;
+transition: 0.4s;
+}
+
+/*//////////////////////////////////////////////*/
+
+.first_day_text {
+position: absolute;
+background-color: #fff;
+border: 1vh solid #ccc;
+padding: 10vh;
+margin-top: 10vh;
+}
+
+
+.first_day img{ /* 1 */
+position: absolute;
+top: 18vh;
+left: 7vh;
+transform: rotate(18deg);
+}
+
+.first_day img:hover{
+filter: brightness(1.4)
+}
+
+
+/*//////////////////////////////////////////////*/
+
+.cozy img{ /* 2 */
+position: absolute;
+bottom: -20vh;
+left: 10vh;
+transform: rotate(4deg);
+}
+
+.cozy img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.tyler_state img{ /* 3 */
+position: absolute;
+top: 27vh;
+left: 50vh;
+transform: rotate(-8deg);
+}
+
+.tyler_state img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.cruise img{ /* 4 */
+position: absolute;
+top: 15vh;
+left: 90vh;
+transform: rotate(3deg);
+}
+
+.cruise img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.drama_show img{ /* 5 */
+position: absolute;
+top: 18vh;
+left: 138vh;
+transform: rotate(-7deg);
+}
+
+.drama_show img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.prom_funny img{ /* 6 */
+position: absolute;
+top: 66.5vh;
+left: 100vh;
+transform: rotate(-7deg);
+}
+
+.prom_funny img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.drama_awards img{ /* 7 */
+position: absolute;
+top: 68vh;
+left: 145vh;
+transform: rotate(5deg);
+}
+
+.drama_awards img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.true_love img{ /* 8 */
+position: absolute;
+top: 130vh;
+left: 10vh;
+transform: rotate(5.3deg);
+}
+
+.true_love img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.senior_day img{ /* 9 */
+position: absolute;
+top: 126vh;
+left: 50vh;
+transform: rotate(-4deg);
+}
+
+.senior_day img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.senior_week img{ /* 10 */
+position: absolute;
+top: 120vh;
+left: 87vh;
+transform: rotate(3deg);
+}
+
+.senior_week img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.early_beach img{ /* 11 */
+position: absolute;
+top: 180vh;
+left: 6vh;
+transform: rotate(-4.7deg);
+}
+
+.early_beach img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.philly_kiss img{ /* 12 */
+position: absolute;
+top: 120vh;
+left: 148.6vh;
+transform: rotate(-2.5deg);
+}
+
+.philly_kiss img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.the_patch img{ /* 13 */
+position: absolute;
+top: 174vh;
+left: 70.5vh;
+transform: rotate(2.5deg);
+}
+
+.the_patch img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.pumpkin_killer img{ /* 14 */
+position: absolute;
+top: 169vh;
+left: 110vh;
+transform: rotate(-1.9deg);
+}
+
+.pumpkin_killer img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.fav_pic img{ /* 15 */
+position: absolute;
+top: 180vh;
+left: 154vh;
+transform: rotate(3.5deg);
+}
+
+.fav_pic img:hover{
+filter: brightness(1.4)
+}
+/*//////////////////////////////////////////////*/
+
+.bridge img{ /* 16 */
+position: absolute;
+top: 225vh;
+left: 80vh;
+transform: rotate(-1deg);
+}
+
+.bridge img:hover{
+filter: brightness(1.4)
+}
+
+/*//////////////////////////////////////////////*/
+
+.header{
+position: absolute;
+top: 0.1vh;
+left: 80vh;
+}
+
+/*//////////////////////////////////////////////*/
+
+
+
+/*//////////////////////////////////////////////*/

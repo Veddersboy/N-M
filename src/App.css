@@ -1,0 +1,17 @@
+.App {
+  align-items: center;
+  align-content: center;
+  text-align: right;
+  color: black;
+}
+
+.year_one{
+color: aliceblue;
+background-color: transparent;
+height: 50px;
+width: 200px;
+margin-left: 300px;
+border-radius: 10px;
+}
+
+
