@@ -1,6 +1,7 @@
 {
   "name": "testing",
   "version": "0.1.0",
+  "homepage": "http://Veddersboy.github.io/N-M",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
