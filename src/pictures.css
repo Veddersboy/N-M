@@ -243,6 +243,17 @@ left: 80vh;
     filter: brightness(1.4)
 }
 
+.drama_awards img{ /* 7 */
+    position: absolute;
+    top: 68vh;
+    left: 147vh;
+    transform: rotate(5deg);
+}
+    
+    .drama_awards img:hover{
+    filter: brightness(1.4)
+}
+
 .fav_pic img{ /* 15 */
     position: absolute;
     top: 172vh;
