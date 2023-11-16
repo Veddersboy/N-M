@@ -20,14 +20,8 @@ code {
     monospace;
 }
 
-@media only screen and (max-device-width: 2532px) and (-webkit-min-device-pixel-ratio: 3) {
+@media only screen and (max-device-width: 2532px) and (max-device-height: 1170px) {
   body {
-    background-image: url('./background.jpg');
-    background-position: center -1000px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin: 0;
-    padding: 0;
-    background-size: cover; 
+    background-size: 100% 100%; /* or any other suitable style */
   }
 }
