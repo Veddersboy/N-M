@@ -231,6 +231,29 @@ left: 80vh;
 
 /*//////////////////////////////////////////////*/
 
+@media (min-width: 320px) and (max-width: 768px) {
+.cozy img{ /* 2 */
+    position: absolute;
+    bottom: -32vh;
+    left: 10vh;
+    transform: rotate(4deg);
+}
 
+.cozy img:hover{
+    filter: brightness(1.4)
+}
+
+.fav_pic img{ /* 15 */
+    position: absolute;
+    top: 172vh;
+    left: 154vh;
+    transform: rotate(3.5deg);
+}
+
+.fav_pic img:hover{
+    filter: brightness(1.4)
+}
+
+}
 
 /*//////////////////////////////////////////////*/

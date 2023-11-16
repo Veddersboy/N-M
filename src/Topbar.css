@@ -55,6 +55,33 @@ top: 0.1vh;
 left: 80vh;
 }
 
+@media (min-width: 320px) and (max-width: 768px) {
+
+.Topbar {
+    justify-content: center; /* Center items for smaller screens */
+    height: 10vh;
+    padding: 0.5vh;
+}
+  
+.button1 {
+    font-size: 14px;
+    height: 2.5vh;
+    width: 5vw;
+    background-color: whitesmoke;
+    height: 5.2vh;
+    width: 15vw;
+    border-radius: 9.5px;
+}
+  
+.Topbar h1 {
+    position: static; 
+    transform: none; 
+    margin-right: -70vw; 
+}
+
+}
+
+
 
 
 

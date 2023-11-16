@@ -20,8 +20,9 @@ code {
     monospace;
 }
 
-@media only screen and (max-device-width: 2532px) and (max-device-height: 1170px) {
+@media (min-device-width:320px) and (max-device-width:768px) {
   body {
-    background-size: 100% 100%; /* or any other suitable style */
+    background-size: 100% 100%;
+    background-position:0%
   }
 }
