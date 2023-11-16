@@ -20,7 +20,7 @@ code {
     monospace;
 }
 
-@media only screen and (max-device-width: 428px) {
+@media only screen and (max-device-width: 2532px) and (-webkit-min-device-pixel-ratio: 3) {
   body {
     background-image: url('./background.jpg');
     background-position: center -1000px;
