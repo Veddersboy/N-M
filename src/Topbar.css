@@ -58,7 +58,7 @@ left: 80vh;
 @media (min-width: 320px) and (max-width: 768px) {
 
 .Topbar {
-    justify-content: center; /* Center items for smaller screens */
+    justify-content: center; 
     height: 10vh;
     padding: 0.5vh;
 }
