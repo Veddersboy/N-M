@@ -19,3 +19,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media only screen and (max-device-width: 428px) {
+  body {
+    background-image: url('./background.jpg');
+    background-position: center -1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    background-size: cover; 
+  }
+}
